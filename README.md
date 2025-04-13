@@ -16,12 +16,6 @@ This is a simple, responsive landing page inspired by ExpressVPN's design. It hi
 
 - HTML5  
 - CSS3 (internal styles)  
-- [Google Fonts - Inter](https://fonts.google.com/specimen/Inter)
-
-## 📸 Preview
-
-> *(Include a screenshot of your webpage here if available)*  
-> `![Preview Screenshot](url-to-image)`
 
 ## 📷 Images Used
 
@@ -38,11 +32,5 @@ All images are linked externally from the web:
 1. Clone or download the repository.  
 2. Open `index.html` in your web browser.  
 3. Explore the layout and features.
-
-## 📄 License
-
-This project is for educational purposes only and is **not affiliated with ExpressVPN**.
-
----
 
 Made with 💻 by **Dhanush**
